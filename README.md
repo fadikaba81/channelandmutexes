@@ -16,8 +16,8 @@ A simple Go concurrency example demonstrating how to coordinate goroutines using
 ```
 .
 ├── cmd/
-│   └── app/
-│       └── main.go
+│   └── app
+│   └── main.go
 └── internal/
     ├── worker/
     │   └── worker.go
